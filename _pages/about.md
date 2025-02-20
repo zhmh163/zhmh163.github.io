@@ -1,11 +1,14 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+#title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+I am a professor at the School of Physics and Electronic Engineering, Jiangsu University. I obtained my Ph.D. in 2017 from East China Normal University. From 2015 to 2016, I participated in a joint training program at the City University of New York, USA. From 2017 to 2020, I conducted postdoctoral research at the University of Barcelona. My research focuses on the intersection of nonlinear physics and complex networks, with a particular emphasis on information propagation in brain and social networks. I have published more than 30 papers in renowned international journals, such as *PNAS*, *Nature Communications*, and *Communications Physics*. My research has attracted significant attention from both domestic and international peers, with my academic papers being frequently cited by high-impact journals in the physics field, including *Nature Physics*, *Nature Reviews Physics*, and *Physics Reports*. My research has also been featured and reported by influential academic magazines and media outlets such as AAAS EurekAlert, PhysOrg, and News Medical.
+
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
