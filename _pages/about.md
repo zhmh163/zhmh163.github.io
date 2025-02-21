@@ -7,7 +7,17 @@ redirect_from:
   - /about.html
 ---
 
+Welcome to Professor Zheng Muhua's research team! Our research topics include machine learning, complex networks, and nonlinear physics.
+To discuss any interesting science, feel free to contact us at zhengmuhua163@gmail.com.
+
+About me
+===
 I am a professor at the School of Physics and Electronic Engineering, Jiangsu University. I obtained my Ph.D. in 2017 from East China Normal University. From 2015 to 2016, I participated in a joint training program at the City University of New York, USA. From 2017 to 2020, I conducted postdoctoral research at the University of Barcelona. My research focuses on the intersection of nonlinear physics and complex networks, with a particular emphasis on information propagation in brain and social networks. I have published more than 30 papers in renowned international journals, such as *PNAS*, *Nature Communications*, and *Communications Physics*. My research has attracted significant attention from both domestic and international peers, with my academic papers being frequently cited by high-impact journals in the physics field, including *Nature Physics*, *Nature Reviews Physics*, and *Physics Reports*. My research has also been featured and reported by influential academic magazines and media outlets such as AAAS EurekAlert, PhysOrg, and News Medical.
+
+Research fields and majors
+===
+Research fields:Nonlinear physics, complex networks, network geometry, brain science
+Majors:Control Science and Engineering (Ph.D.), Physics (M.S.), Electronic Information (Professional Master's)
 
 
 
