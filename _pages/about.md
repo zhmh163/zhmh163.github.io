@@ -9,6 +9,67 @@ redirect_from:
 
 {% include base_path %}
 
+# 👨‍🔬 Welcome to Professor Zheng Muhua’s Research Team!
+
+🎯 **Our research focuses on**  
+Machine Learning · Complex Networks · Nonlinear Physics
+
+📬 **Contact**  
+[zhengmuhua163@gmail.com](mailto:zhengmuhua163@gmail.com)
+
+---
+
+## 👋 About Professor Zheng Muhua
+
+I am a **Professor** at the *School of Physics and Electronic Engineering*, **Jiangsu University**.
+
+- 🎓 **Ph.D.**: East China Normal University, 2017  
+- 🌍 **International Experience**:  
+  - Joint training at *City University of New York* (2015–2016)  
+  - Postdoctoral research at *University of Barcelona* (2017–2020)
+
+🔬 **Research Interests**  
+I explore the intersection of **nonlinear physics** and **complex networks**, especially focusing on **information propagation** in **brain** and **social networks**.
+
+📈 **Publications & Recognition**  
+- 30+ papers published in top journals:
+  - *PNAS*
+  - *Nature Communications*
+  - *Communications Physics*
+
+- Cited by high-impact journals:
+  - *Nature Physics*
+  - *Nature Reviews Physics*
+  - *Physics Reports*
+
+- Featured by:
+  - **AAAS EurekAlert**
+  - **PhysOrg**
+  - **News Medical**
+
+---
+
+## 🧠 Research Fields
+
+- **Nonlinear Physics**
+- **Complex Networks**
+- **Network Geometry**
+- **Brain Science**
+
+---
+
+## 🎓 Majors Open for Graduate Studies
+
+- **Control Science and Engineering** (Ph.D.)
+- **Physics** (M.S.)
+- **Electronic Information** (Professional Master’s)
+
+---
+
+📢 *We welcome collaborations and discussions on any exciting science!*
+
+
+<!--
 Welcome to the lab of Machine Learning Stochastic Physics! 
 Our research topics include stochastic process, machine learning, nonequilibrium statistical physics. Combining analytical and numerical approaches, the ultimate goal is to uncover simple theoretical principles that could help understand complex dynamical processes and design efficient machine learning algorithms.
 
@@ -44,3 +105,4 @@ We are looking for motivated postdocs in areas of machine learning, stochastic d
 
 ### Students
 We are always looking for self-driven Ph.D. students, master, and undergraduates. If you are interested in, please get in touch. For [more information](https://zhuanlan.zhihu.com/p/676177850).
+-->
