@@ -1,12 +1,13 @@
 ---
 permalink: /contact/
-title: "Group:"
+# title: "Group:"
 author_profile: true
 ---
 
 # Main Team Members
-[Muhua Zheng Professor](https://phy.ujs.edu.cn/info/1074/4811.htm)
-[Kesheng XU Professor](https://phy.ujs.edu.cn/info/1076/4799.htm)
+
+[Muhua Zheng Professor](https://phy.ujs.edu.cn/info/1074/4811.htm)  
+[Kesheng XU Professor](https://phy.ujs.edu.cn/info/1076/4799.htm)  
 [Jiao Wu lecturer](https://math.ujs.edu.cn/info/1073/15583.htm)
 
 
