@@ -10,8 +10,18 @@ author_profile: true
 
 ## Master's Students
 
-- Zhimao Liu (2024–)
-- Kewen Pan (2024–)
+- Yingpeng Liu (2022–)
+- Yu Zhou (2022–)
+- Liang Yuan (2022–)
+- Youhao Zhuo (2023–)
+- Xiaowen Hu (2023–)
+- Guoqing Li (2024–)
+- Lihui Zhu (2024–)
+
+## Graduated Students
+
+- Zheng Yang (2021–2024, PhD at Xi'an Jiaotong University)
+- Xuhui Wang (2021–2024, Hisense Group)
 
 
 <!--
