@@ -2,6 +2,7 @@
 permalink: /contact/
 # title: "Group:"
 author_profile: true
+header: false
 ---
 
 # Main Team Members
