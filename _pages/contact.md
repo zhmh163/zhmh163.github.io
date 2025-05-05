@@ -8,6 +8,10 @@ author_profile: true
 * [Kesheng XU Professor](https://phy.ujs.edu.cn/info/1076/4799.htm)
 * [Jiao Wu lecturer](https://math.ujs.edu.cn/info/1073/15583.htm)
 
+## Master's Students
+
+- Zhimao Liu (2024–)
+- Kewen Pan (2024–)
 
 
 <!--
