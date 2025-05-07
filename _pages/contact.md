@@ -10,7 +10,7 @@ author_profile: true
 
 ## Master's Students
 
-- Yingpeng Liu (2022–)
+- [Yingpeng Liu](https://orcid.org/0009-0009-2205-1910) (2022–)
 - Yu Zhou (2022–)
 - Liang Yuan (2022–)
 - Youhao Zhuo (2023–)
