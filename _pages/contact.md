@@ -23,6 +23,7 @@ author_profile: true
 - Zheng Yang (2021–2024, PhD at Xi'an Jiaotong University)
 - Xuhui Wang (2021–2024, Hisense Group)
 
+![Team Photo](/images/team.jpg)
 
 <!--
 # Postdoc
