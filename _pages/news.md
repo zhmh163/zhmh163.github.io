@@ -17,8 +17,12 @@ author_profile: true
 
 ## Research Projects
 
-**1.** <span style="color:#228B22;">"Jiangsu Distinguished Professor" Talent Project</span>, <span style="color:#1E90FF;">2023.01–2025.12</span>, Ongoing, Principal Investigator  
-**2.** <span style="color:#228B22;">National Natural Science Foundation of China (Youth Program), Grant No. 120050749</span>, <span style="color:#1E90FF;">Dynamics of Epidemic Spreading on Complex Networks in Hyperbolic Space</span>, 2021.01–2023.12, Completed, Principal Investigator  
-**3.** <span style="color:#228B22;">Start-up Fund for Senior Talent at Jiangsu University</span>, <span style="color:#1E90FF;">Modeling of Complex Networks and Epidemic Spreading in Hyperbolic Space</span>, 2020.12–2023.11, Ongoing, Principal Investigator  
-**4.** <span style="color:#228B22;">Jiangsu Provincial Youth Fund, Grant No. BK20220511</span>, <span style="color:#1E90FF;">Modeling and Dynamics of Information Spreading under Higher-Order Interactions</span>, 2022.07–2025.06, Ongoing, Participant  
-**5.** <span style="color:#228B22;">Fundación Banco Bilbao Vizcaya Argentaria (BBVA)</span>, <span style="color:#1E90FF;">Mapping Big Data Systems: Embedding Large Complex Networks in Low-Dimensional Hidden Metric Spaces</span>, 2018.06–2020.06, €100,000, Completed, Participant  
+**1.** "Jiangsu Distinguished Professor" Talent Project, *<span style="color:#1E90FF;">2023.01–2025.12</span>*, Ongoing, Principal Investigator  
+
+**2.** National Natural Science Foundation of China (Youth Program), Grant No. 120050749, *<span style="color:#1E90FF;">Dynamics of Epidemic Spreading on Complex Networks in Hyperbolic Space</span>*, 2021.01–2023.12, Completed, Principal Investigator  
+
+**3.** Start-up Fund for Senior Talent at Jiangsu University, *<span style="color:#1E90FF;">Modeling of Complex Networks and Epidemic Spreading in Hyperbolic Space</span>*, 2020.12–2023.11, Ongoing, Principal Investigator  
+
+**4.** Jiangsu Provincial Youth Fund, Grant No. BK20220511, *<span style="color:#1E90FF;">Modeling and Dynamics of Information Spreading under Higher-Order Interactions</span>*, 2022.07–2025.06, Ongoing, Participant  
+
+**5.** Fundación Banco Bilbao Vizcaya Argentaria (BBVA), *<span style="color:#1E90FF;">Mapping Big Data Systems: Embedding Large Complex Networks in Low-Dimensional Hidden Metric Spaces</span>*, 2018.06–2020.06, €100,000, Completed, Participant  
