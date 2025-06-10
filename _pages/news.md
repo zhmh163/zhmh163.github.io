@@ -17,7 +17,7 @@ author_profile: true
 
 ## Research Projects
 
-**1.** "Jiangsu Distinguished Professor" Talent Project, *<span style="color:#1E90FF;">2023.01–2025.12</span>*, Ongoing, Principal Investigator  
+**1.** "Jiangsu Distinguished Professor" Talent Project, 2023.01–2025.12, Ongoing, Principal Investigator  
 
 **2.** National Natural Science Foundation of China (Youth Program), Grant No. 120050749, *<span style="color:#1E90FF;">Dynamics of Epidemic Spreading on Complex Networks in Hyperbolic Space</span>*, 2021.01–2023.12, Completed, Principal Investigator  
 
