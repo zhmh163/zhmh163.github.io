@@ -8,6 +8,10 @@ author_profile: true
 * [Kesheng XU Professor](https://phy.ujs.edu.cn/info/1076/4799.htm)
 * [Jiao Wu Lecturer](https://math.ujs.edu.cn/info/1073/15583.htm)
 
+## Ph.D. Students
+
+- [Yingpeng Liu](https://orcid.org/0009-0009-2205-1910) (2025–, Master's student in the group from 2022 to 2025)
+
 ## Master's Students
 
 - [Yingpeng Liu](https://orcid.org/0009-0009-2205-1910) (2022–)
