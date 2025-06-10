@@ -9,14 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-## Welcome to Professor Zheng Muhua’s Research Team!  
+## Welcome to Professor Zheng Muhua’s Research Team!
 
-<div style="line-height: 1.8;">
-
-Our research topics include **machine learning**, **complex networks**, and **nonlinear physics**.  
-To discuss any interesting science, feel free to contact us at ✉️ [zhengmuhua163@gmail.com](mailto:zhengmuhua163@gmail.com).
-
-</div>
+<p style="line-height: 1.8;">
+Our research topics include <strong>machine learning</strong>, <strong>complex networks</strong>, and <strong>nonlinear physics</strong>.<br>
+To discuss any interesting science, feel free to contact us at ✉️ <a href="mailto:zhengmuhua163@gmail.com">zhengmuhua163@gmail.com</a>.
+</p>
 
 ---
 
