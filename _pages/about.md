@@ -16,9 +16,15 @@ To discuss any interesting science, feel free to contact us at ✉️ [zhengmuhu
 
 ---
 
-## 👨‍🏫 About Me  
+## 👨‍🏫 About Me
 
-I am a professor at the [School of Physics and Electronic Engineering](https://spjs.ujs.edu.cn/) at [Jiangsu University](https://www.ujs.edu.cn/). I obtained my Ph.D. in 2017 from [East China Normal University](https://english.ecnu.edu.cn/), and from 2015 to 2016, I participated in a joint training program at the [City University of New York](https://www.cuny.edu/), USA. From 2017 to 2020, I conducted postdoctoral research at the [University of Barcelona](https://www.ub.edu/web/ub/en/). My research focuses on the **intersection of nonlinear physics and complex networks**, particularly **information propagation in brain and social networks**. I have published more than **30 papers** in renowned international journals such as *PNAS*, *Nature Communications*, and *Communications Physics*. My work has received significant attention from both domestic and international peers, cited by journals including *Nature Physics*, *Nature Reviews Physics*, and *Physics Reports*, and featured by platforms like AAAS EurekAlert, PhysOrg, and News Medical.
+<div style="line-height: 1.8;">
+
+I am a professor at the <a href="https://spjs.ujs.edu.cn/">School of Physics and Electronic Engineering</a> at <a href="https://www.ujs.edu.cn/">Jiangsu University</a>. I obtained my Ph.D. in 2017 from <a href="https://english.ecnu.edu.cn/">East China Normal University</a>, and from 2015 to 2016, I participated in a joint training program at the <a href="https://www.cuny.edu/">City University of New York</a>, USA. From 2017 to 2020, I conducted postdoctoral research at the <a href="https://www.ub.edu/web/ub/en/">University of Barcelona</a>.
+
+My research focuses on the <strong>intersection of nonlinear physics and complex networks</strong>, particularly <strong>information propagation in brain and social networks</strong>. I have published more than <strong>30 papers</strong> in renowned international journals such as <em>PNAS</em>, <em>Nature Communications</em>, and <em>Communications Physics</em>. My work has received significant attention from both domestic and international peers, cited by journals including <em>Nature Physics</em>, <em>Nature Reviews Physics</em>, and <em>Physics Reports</em>, and featured by platforms like AAAS EurekAlert, PhysOrg, and News Medical.
+
+</div>
 
 ---
 
