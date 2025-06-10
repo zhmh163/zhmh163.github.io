@@ -9,62 +9,49 @@ redirect_from:
 
 {% include base_path %}
 
-# 👨‍🔬 Welcome to Professor Zheng Muhua’s Research Team!
+## Welcome to Professor Zheng Muhua’s Research Team!  
 
-🎯 **Our research focuses on**  
-Machine Learning · Complex Networks · Nonlinear Physics
-
-📬 **Contact**  
-[zhengmuhua163@gmail.com](mailto:zhengmuhua163@gmail.com)
+Our research topics include **machine learning**, **complex networks**, and **nonlinear physics**.  
+To discuss any interesting science, feel free to contact us at ✉️ [zhengmuhua163@gmail.com](mailto:zhengmuhua163@gmail.com).  
 
 ---
 
-## 👋 About Professor Zheng Muhua
+## 👨‍🏫 About Me  
 
-I am a **Professor** at the *School of Physics and Electronic Engineering*, **Jiangsu University**.
+I am a professor at the [School of Physics and Electronic Engineering](https://spjs.ujs.edu.cn/) at [Jiangsu University](https://www.ujs.edu.cn/).  
 
-- 🎓 **Ph.D.**: East China Normal University, 2017  
-- 🌍 **International Experience**:  
-  - Joint training at *City University of New York* (2015–2016)  
-  - Postdoctoral research at *University of Barcelona* (2017–2020)
+✔️ I obtained my Ph.D. in 2017 from [East China Normal University](https://english.ecnu.edu.cn/).  
+✔️ From 2015 to 2016, I participated in a joint training program at the [City University of New York](https://www.cuny.edu/), USA.  
+✔️ From 2017 to 2020, I conducted postdoctoral research at the [University of Barcelona](https://www.ub.edu/web/ub/en/).  
 
-🔬 **Research Interests**  
-I explore the intersection of **nonlinear physics** and **complex networks**, especially focusing on **information propagation** in **brain** and **social networks**.
+My research focuses on the **intersection of nonlinear physics and complex networks**, with particular emphasis on **information propagation in brain and social networks**.
 
-📈 **Publications & Recognition**  
-- 30+ papers published in top journals:
-  - *PNAS*
-  - *Nature Communications*
-  - *Communications Physics*
+I have published more than **30 papers** in renowned international journals, such as:
 
-- Cited by high-impact journals:
-  - *Nature Physics*
-  - *Nature Reviews Physics*
-  - *Physics Reports*
+- *PNAS*
+- *Nature Communications*
+- *Communications Physics*
 
-- Featured by:
-  - **AAAS EurekAlert**
-  - **PhysOrg**
-  - **News Medical**
+My work has been widely recognized, cited by high-impact journals including *Nature Physics*, *Nature Reviews Physics*, and *Physics Reports*, and featured by:
+
+- AAAS EurekAlert
+- PhysOrg
+- News Medical
 
 ---
 
-## 🧠 Research Fields
+## 🔬 Research Fields and Majors  
 
-- **Nonlinear Physics**
-- **Complex Networks**
-- **Network Geometry**
-- **Brain Science**
+**Research Fields:**  
+- Nonlinear Physics  
+- Complex Networks  
+- Network Geometry  
+- Brain Science  
 
----
-
-## 🎓 Majors Open for Graduate Studies
-
-- **Control Science and Engineering** (Ph.D.)
-- **Physics** (M.S.)
-- **Electronic Information** (Professional Master’s)
-
----
+**Majors Offered:**  
+- Control Science and Engineering (Ph.D.)  
+- Physics (M.S.)  
+- Electronic Information (Professional Master’s)  
 
 📢 *We welcome collaborations and discussions on any exciting science!*
 
