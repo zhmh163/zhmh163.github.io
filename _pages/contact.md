@@ -14,17 +14,17 @@ author_profile: true
 
 ## Master's Students
 
-- Youhao Zhuo (2023–)
-- Xiaowen Hu (2023–)
 - Guoqing Li (2024–)
 - Lihui Zhu (2024–)
+- Youhao Zhuo (2023–)
+- Xiaowen Hu (2023–)
 
 ## Graduated Students
 
-- Zheng Yang (2021–2024, PhD at Xi'an Jiaotong University)
-- Xuhui Wang (2021–2024, Hisense Group)
 - Yu Zhou (2022–2025, TE Connectivity Ltd)
 - Liang Yuan (2022–2025, Huadian Group)
+- Zheng Yang (2021–2024, PhD at Xi'an Jiaotong University)
+- Xuhui Wang (2021–2024, Hisense Group)
 
 ![Team Photo](/images/team.jpg)
 
