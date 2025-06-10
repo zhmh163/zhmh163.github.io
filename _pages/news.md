@@ -15,10 +15,10 @@ author_profile: true
 2023.04.20 — **Zheng Yang**'s paper accepted in *Chaos, Solitons & Fractals*: [*Asymmetric inter-layer interactions induce a double transition of information spreading*](https://www.sciencedirect.com/science/article/abs/pii/S0960077923003880)
 
 
-## Research Projects
+# Research Projects
 
-1. *"Jiangsu Distinguished Professor" Talent Project*, 2023.01–2025.12, Ongoing, Principal Investigator  
-2. *National Natural Science Foundation of China (Youth Program)*, Grant No. 120050749, *Dynamics of Epidemic Spreading on Complex Networks in Hyperbolic Space*, 2021.01–2023.12, Completed, Principal Investigator  
-3. *Start-up Fund for Senior Talent at Jiangsu University*: *Modeling of Complex Networks and Epidemic Spreading in Hyperbolic Space*, 2020.12–2023.11, Ongoing, Principal Investigator  
-4. *Jiangsu Provincial Youth Fund*, Grant No. BK20220511, *Modeling and Dynamics of Information Spreading under Higher-Order Interactions*, 2022.07–2025.06, Ongoing, Participant  
-5. *Fundación Banco Bilbao Vizcaya Argentaria (BBVA)*, *Mapping Big Data Systems: Embedding Large Complex Networks in Low-Dimensional Hidden Metric Spaces*, 2018.06–2020.06, €100,000, Completed, Participant  
+1. <span style="color:#1E90FF;"><strong>"Jiangsu Distinguished Professor" Talent Project</strong></span>, 2023.01–2025.12, Ongoing, Principal Investigator  
+2. <span style="color:#1E90FF;"><strong>National Natural Science Foundation of China (Youth Program)</strong></span>, Grant No. 120050749, *Dynamics of Epidemic Spreading on Complex Networks in Hyperbolic Space*, 2021.01–2023.12, Completed, Principal Investigator  
+3. <span style="color:#1E90FF;"><strong>Start-up Fund for Senior Talent at Jiangsu University</strong></span>: *Modeling of Complex Networks and Epidemic Spreading in Hyperbolic Space*, 2020.12–2023.11, Ongoing, Principal Investigator  
+4. <span style="color:#228B22;"><strong>Jiangsu Provincial Youth Fund</strong></span>, Grant No. BK20220511, *Modeling and Dynamics of Information Spreading under Higher-Order Interactions*, 2022.07–2025.06, Ongoing, Participant  
+5. <span style="color:#8B4513;"><strong>Fundación Banco Bilbao Vizcaya Argentaria (BBVA)</strong></span>, *Mapping Big Data Systems: Embedding Large Complex Networks in Low-Dimensional Hidden Metric Spaces*, 2018.06–2020.06, €100,000, Completed, Participant  
