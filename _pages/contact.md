@@ -14,9 +14,6 @@ author_profile: true
 
 ## Master's Students
 
-- [Yingpeng Liu](https://orcid.org/0009-0009-2205-1910) (2022–)
-- Yu Zhou (2022–)
-- Liang Yuan (2022–)
 - Youhao Zhuo (2023–)
 - Xiaowen Hu (2023–)
 - Guoqing Li (2024–)
@@ -26,6 +23,8 @@ author_profile: true
 
 - Zheng Yang (2021–2024, PhD at Xi'an Jiaotong University)
 - Xuhui Wang (2021–2024, Hisense Group)
+- Yu Zhou (2022–2025, TE Connectivity Ltd)
+- Liang Yuan (2022–2025, Huadian Group)
 
 ![Team Photo](/images/team.jpg)
 
