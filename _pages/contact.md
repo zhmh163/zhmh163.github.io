@@ -21,7 +21,7 @@ author_profile: true
 
 ## Graduated Students
 
-- Yu Zhou (2022–2025, TE Connectivity Ltd)
+- [Yu Zhou](https://zhouyu.me/) (2022–2025, TE Connectivity Ltd)
 - Liang Yuan (2022–2025, Huadian Group)
 - Zheng Yang (2021–2024, PhD at Xi'an Jiaotong University)
 - Xuhui Wang (2021–2024, Hisense Group)
